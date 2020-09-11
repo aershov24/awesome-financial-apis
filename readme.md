@@ -9,3 +9,8 @@ Curated list of awesome Financial APIs (free and paid) to get the variety of liv
 
 * [IEXCloud](https://iexcloud.io/) - Build and scale financial applications faster on IEX Cloud.
 
+* [Polygon.io](https://polygon.io/) - Financial Data Platform APIs for Stocks, Forex, and Crypto
+
+* [AlphaVantage.co](https://www.alphavantage.co/) - Leading provider of stock APIs as well as forex (FX) and digital/crypto currency data feeds. Backed by the prestigious Y Combinator.
+
+* [Xignite](https://www.xignite.com/) - Xignite market data is sourced from more than 250 leading providers such as FactSet and Morningstar, as well as Xignite’s own curated, high quality data.
