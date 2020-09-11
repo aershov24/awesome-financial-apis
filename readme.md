@@ -14,3 +14,7 @@ Curated list of awesome Financial APIs (free and paid) to get the variety of liv
 * [AlphaVantage.co](https://www.alphavantage.co/) - Leading provider of stock APIs as well as forex (FX) and digital/crypto currency data feeds. Backed by the prestigious Y Combinator.
 
 * [Xignite](https://www.xignite.com/) - Xignite market data is sourced from more than 250 leading providers such as FactSet and Morningstar, as well as Xignite’s own curated, high quality data.
+
+* [Intrinio](https://intrinio.com/) - A new standard for financial data. Power your analysis with cutting-edge financial data and tools built for businesses
+
+* [Quandl](https://www.quandl.com/) - The premier source for financial, economic, and alternative datasets, serving investment professionals. 
